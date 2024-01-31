@@ -24,6 +24,10 @@
 
 ## Input Augment
 -----
+### Blogs
+|title|content|updated time|
+|-----|-------|------------|
+|[使用 Langchain 的 LLM 的对话记忆](https://zhuanlan.zhihu.com/p/639480745)||25/06/2023|
 
 ## Model Augment
 ----
@@ -50,15 +54,26 @@
 |[Optimized large language model (LLM) serving
 |[大语言模型的模型量化(INT8/INT4)技术](https://zhuanlan.zhihu.com/p/627436535)||quant|6/7/2023|
 |
+### Trending Frameworks
+- [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index)
+- [vLLM](https://github.com/vllm-project/vllm)
 
 
 ### papers
 |title|content|domain|conference|data|
 |-----|-------|-------|----------|-----|
 |[ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models](https://arxiv.org/abs/2401.14351)|||25/1/2024|
+|[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)|||27/05/2023|
+|[FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691)||||
+|[Efficient memory management for large language model serving with pagedattention](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)||||
+
 
 
 ### Frameworks
 
 ## LLM Evaluate
 -----
+
+## others
+
+### blogs
